@@ -1,0 +1,20 @@
+// ici je pose ma question en determinant ma variable
+var cheval = prompt("De quelle couleur est le cheval blanc d'henri 4 ?")
+// si strictement egal à blanc je dis bravo
+if (cheval === 'blanc' ) {
+		alert("Bravo , continu.");
+	}
+// dans tous les autres cas je dis faux
+	else {
+		alert("Faux, recommence !");
+  }
+// ici je pose ma question en determinant ma variable
+var nains = prompt("combien y a t'il de nains dans blanche neige ?")
+// si strictement egal à 7 je dis bravo
+if (nains === '7' ) {
+		alert("Bravo , continu.");
+	}
+// dans tous les autres cas je dis faux
+	else {
+		alert("Faux, recommence !");
+  }
